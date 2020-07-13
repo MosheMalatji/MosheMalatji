@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Im a junior Full Stack developer specializing in dotnet mobile and web technologies 
 
 <!--
 **MosheMalatji/MosheMalatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

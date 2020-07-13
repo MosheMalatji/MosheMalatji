@@ -3,7 +3,7 @@
 <!--
 **MosheMalatji/MosheMalatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started d:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ZozoApp which is a food delivery app
+- 🌱 I’m currently learning about Blazor
+- 📫 How to reach me: moshemalatji@gmail.com
+- 😄 Pronouns: His Lordship
+- ⚡ Fun fact: I speak 10 non programming languages

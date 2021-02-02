@@ -1,5 +1,4 @@
 <h2> Hi, I'm Mosh! </h2>
-<br>
 <img align='right' src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="230">
 <p><em>Mobile and Web Developer at <a>I-Chain Fixed Asset Management</a>
 </em></p>

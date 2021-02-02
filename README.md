@@ -1,5 +1,5 @@
 <h2> Hi, I'm Mosh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://gph.is/g/aeBvzwq" width="230">
 <p><em>Mobile and Web Developer at <a href="http://www.unb.br">I-Chain Fixed Asset Management</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 

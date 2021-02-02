@@ -1,22 +1,20 @@
-### Hi there Im a junior Full Stack developer specializing in dotnet mobile and web technologies 
+<h2> Hi, I'm Mosh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**MosheMalatji/MosheMalatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started d:
+```javascript
+const Moshe = {
+  base: "ZA",
+  code: [C#, XAML, Typescript, JavaScript, CSS,T-SQL],
+  tools: [Xamarin, Kendo, JQuery, Blazor, MVC, SSRS, SSIS],
+  CurrentRole: ["Full Stack Mobile and Web Developer"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- 🔭 I’m currently working on ZozoApp which is a food delivery app
-- 🌱 I’m currently learning about Blazor
-- 📫 How to reach me: moshemalatji@gmail.com
-- 😄 Pronouns: His Lordship
-- ⚡ Fun fact: I speak 10 non programming languages
+---
+

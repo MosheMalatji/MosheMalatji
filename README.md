@@ -9,7 +9,7 @@
 const Moshe = {
   base: "ZA",
   languages: [C#, XAML, Typescript, JavaScript, CSS,T-SQL],
-  tools: [Xamarin, Kendo, JQuery, Blazor, MVC, SSRS, SSIS],
+  tools: [Xamarin, Kendo, JQuery, Blazor, MVC, SSRS, SSIS, FIGMA, ADB],
   CurrentRole: ["Full Stack Mobile and Web Developer"],
 }
 ```

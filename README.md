@@ -11,6 +11,6 @@ I love to learn about everything and anything and I equally enjoy sharing the th
 
 - 🌱 I’m currently learning: Inflation and other formulas
 - 💬 Ask me about: Xamarin, T-SQL, Mobile Devices
-- 🔭 I’m currently working on: A bunch of calculators
+
 
 
